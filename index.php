@@ -24,7 +24,7 @@
   </section><!-- .section -->
   <section
 	class="section vertical-top about-us-section"
-	data-background="#e7f1f8"
+	data-background="#ffffff"
 	data-nav-color="#d73e4d"
 	data-nav-color-text="#ffffff"
 	data-title="About"
@@ -37,7 +37,7 @@
 		  </div><!-- .section-bg -->
 		  
 		  <div class="col-sm-6 col-lg-5 info" data-appear-animation="fadeInUpBig" data-appear-animation-delay="300">
-			<h2 class="section-title">SOMOS LOS CREADORES DE EVENTOS INOLVIDABLES, MOMENTOS FELICES, ¡BIENVENIDOS!</h2>
+			<h2 class="section-title">CREADORA DE AVENTURAS INOLVIDABLES, MOMENTOS FELICES, ¡BIENVENIDOS!</h2>
 			<div class="descriptions">
 			  <p>Nuestro objetivo es lograr que tu evento sea una experiencia linda y memorable. 
 			  	Por eso en CASA RINCÓN te ofrecemos la organización integral del mismo, 
@@ -55,7 +55,7 @@
 
   <section
 	class="section"
-	data-background="rgba(255,247,204,0.8)"
+	data-background="rgba(237,28,36,0.8)"
 	data-background-image="content/img/bg-section-work.jpg"
 	data-nav-color="#d73e4d"
 	data-title="Works"
@@ -212,7 +212,7 @@
   
   <section
 	class="section align-without-title team-section"
-	data-background="rgba(35,184,158,0.5)"
+	data-background="rgba(0,0,0,0.5)"
 	data-background-image="content/img/bg-section-team.jpg"
 	data-nav-color="#d73e4d"
 	data-color="#768088"
@@ -414,7 +414,7 @@
   </section><!-- .section -->
   <section
 	class="section contact-section map-section"
-	data-background="rgba(55,80,153,0.8)"
+	data-background="rgba(112,111,112,0.8)"
 	data-background-image="content/img/bg-section-contacts.jpg"
 	data-nav-color="#ffffff"
 	data-nav-color-text="rgb(55,80,153)"
