@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Portfolio \ Promo Gear</title>
+  <title>Ysela Jesús Tours Guide in Peru</title>
   <meta name="keywords" content="HTML5 Template">
   <meta name="description" content="">
   <meta name="author" content="itembridge.com">
