@@ -16,7 +16,7 @@
 	  <div class="container">
 		<div class="row">
 		  <div class="col-sm-4 left-align">
-			<div class="copyright">Copyright © ItemBridge llc, 2015</div>
+			<div class="copyright">Copyright © Ysela Jesús Tour Guide 2018</div>
 		  </div>
 		  
 		  <div class="col-sm-4">

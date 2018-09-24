@@ -4,20 +4,20 @@
 	    <div class="nav-vis">
 		    <div class="second-menu">
 			    <ul>
-			       <li class="fa fa-envelope-o"><a href="mailto:gerardo@casarincon.com">gerardo@casarincon.com</a></li>
-			       <li class="fa fa-mobile"> <a href="tel:300-35234252">300-35234252</a></li>
+			       <li class="fa fa-envelope-o"><a href="mailto:ysejesus2014@gmail.com">ysejesus2014@gmail.com</a></li>
+			       <li class="fa fa-mobile"> <a href="tel:300-35234252">+51 947 261 005</a></li>
 			       <li class="fa fa-phone"><a href="tel:767-9876">767-9876</a></li>
 			    </ul>
 			  </div>
 		     <div class="third-menu">
 			    <ul>
-			      <li class="fa fa-photo"><a href="#works"><span>Galeria</span></a></li>
-			      <li class="fa fa-user"><a href="#contacts"><span>Contacto</span></a></li>
+			      <li class="fa fa-photo"><a href="#tours">Tours</a></li>
+			      <li class="fa fa-user"><a href="#contacts">Contact</a></li>
 			    </ul>
 			  </div>
 		</div>
-		<a href=""><div class="logo-t"></div></a>
-		<div class="titleX"><h1>Eventos Casa Rincón</h1></div>
+		<div class="logo-t"><img src="img/world.png" alt="Traveling"> </div>
+		<div class="titleX"><h1>Ysela Peru Tours</h1></div>
 		<?php include('includes/slider.php'); ?>
 	  </div>
 	</div><!-- .section-content -->
@@ -37,15 +37,14 @@
 		  </div><!-- .section-bg -->
 		  
 		  <div class="col-sm-6 col-lg-5 info" data-appear-animation="fadeInUpBig" data-appear-animation-delay="300">
-			<h2 class="section-title">CREADORA DE AVENTURAS INOLVIDABLES, MOMENTOS FELICES, ¡BIENVENIDOS!</h2>
+			<h2 class="section-title">I´M A CREATOR OF UNFORGETTABLE ADVENTURES AND HAPPY MOMENTS.</h2>
 			<div class="descriptions">
-			  <p>Nuestro objetivo es lograr que tu evento sea una experiencia linda y memorable. 
-			  	Por eso en CASA RINCÓN te ofrecemos la organización integral del mismo, 
-			  	para que vos solo te dediques a disfrutar, en un marco de calidad y profesionalismo.
-				Queremos hacerte sentir como en tu PROPIA CASA todos los días.</p>
-				<p>Tenemos todo lo que tu necesitas para tu evento, el lugar, el menú, la música, 
-					los meseros y la decoración. El secreto del éxito: que te sientas como un 
-					invitado más.</p>
+			  <p>I am an enthusiastic host who is always willing to provide hospitality to special clients 
+(national and / or international tourists); I am usually an inveterate traveler who enjoys 
+the company of other people, to know different cultures, to learn other ways of life and to 
+interpret the world; </p>
+				<p>I´m a self-taught and disciplined person who is constantly searching for new, 
+exotic and fascinating places that enrich his vast repertoire of memories of experience.</p>
 			</div>
 		  </div><!-- .info -->
 		</div>
@@ -58,12 +57,12 @@
 	data-background="rgba(237,28,36,0.8)"
 	data-background-image="content/img/bg-section-work.jpg"
 	data-nav-color="#d73e4d"
-	data-title="Works"
-	data-anchor="works">
+	data-title="Tours"
+	data-anchor="tours">
 	<div class="section-content">
-	  <div class="container section-wrap filter-box works-box">
+	  <div class="container section-wrap filter-box works-box tours">
 		<div class="row section-title-block">
-		  <h1 class="col-sm-4 section-title" data-appear-animation="fadeInLeftBig" data-appear-animation-delay="500">Works</h1>
+		  <h1 class="col-sm-4 section-title" data-appear-animation="fadeInLeftBig" data-appear-animation-delay="500">Tours</h1>
 		
 		  <div class="col-sm-8 text-right" data-appear-animation="fadeInRightBig" data-appear-animation-delay="500">
 			<div class="btn-group filter-buttons filter-list">
@@ -72,10 +71,10 @@
 			  </button>
 			  <ul class="dropdown-menu" role="menu">
 				<li><a href="#" data-filter="*" class="active">All</a>
-				<li><a href="#" data-filter=".planning">Planning</a>
-				<li><a href="#" data-filter=".branding">Branding</a>
-				<li><a href="#" data-filter=".design">Design</a>
-				<li><a href="#" data-filter=".production">Production</a>
+				<li><a href="#" data-filter=".planning">Cusco</a>
+				<li><a href="#" data-filter=".branding">Packages</a>
+				<li><a href="#" data-filter=".design">Hiking</a>
+				<li><a href="#" data-filter=".production">Free Tours</a>
 			  </ul>
 			  <div class="clearfix"></div>
 			</div><!-- .filter-buttons -->
@@ -217,11 +216,11 @@
 	data-nav-color="#d73e4d"
 	data-color="#768088"
 	data-title-color="#fff7cc"
-	data-title="Team"
-	data-anchor="team">
-	<div class="section-content">
+	data-title="Comments"
+	data-anchor="comments">
+	<div class="section-content comments">
 	  <div class="container section-wrap">
-		<h1 class="section-title text-center" data-appear-animation="fadeInDown" data-appear-animation-delay="400">Team</h1>
+		<h1 class="section-title text-center" data-appear-animation="fadeInDown" data-appear-animation-delay="400">What people say</h1>
 		
 		<div class="team-carousel">
 		  <div class="row carousel carousel-white bottom-navigation" data-options='{"itemsCustom": [[0, 1],[768, 2],[992, 3]], "navigation": true}'>
@@ -238,12 +237,7 @@
 				  
 				  <div class="description">Expert in developing open data strategies and solutions.</div>
 				  
-				  <div class="social">
-					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-google-plus"></i></a>
-					<a href="#"><i class="fa fa-behance"></i></a>
-				  </div>
+				  
 				</div>
 				<div class="clearfix"></div>
 			  </div><!-- .employee -->
@@ -260,12 +254,7 @@
 				  
 				  <div class="description">Recognized expert in open data and open source software.</div>
 				  
-				  <div class="social">
-					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-google-plus"></i></a>
-					<a href="#"><i class="fa fa-behance"></i></a>
-				  </div>
+				 
 				</div>
 				<div class="clearfix"></div>
 			  </div><!-- .employee -->
@@ -284,12 +273,7 @@
 				  
 				  <div class="description">Works alongside developers and managers to improve products.</div>
 				  
-				  <div class="social">
-					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-google-plus"></i></a>
-					<a href="#"><i class="fa fa-behance"></i></a>
-				  </div>
+				 
 				</div>
 				<div class="clearfix"></div>
 			  </div><!-- .employee -->
@@ -306,12 +290,7 @@
 				  
 				  <div class="description">Designs intuitive, accessible user interfaces for the websites.</div>
 				  
-				  <div class="social">
-					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-google-plus"></i></a>
-					<a href="#"><i class="fa fa-behance"></i></a>
-				  </div>
+				  
 				</div>
 				<div class="clearfix"></div>
 			  </div><!-- .employee -->
@@ -330,12 +309,7 @@
 				  
 				  <div class="description">Works on product and business development and communications.</div>
 				  
-				  <div class="social">
-					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-google-plus"></i></a>
-					<a href="#"><i class="fa fa-behance"></i></a>
-				  </div>
+				  
 				</div>
 				<div class="clearfix"></div>
 			  </div><!-- .employee -->
@@ -352,12 +326,7 @@
 				  
 				  <div class="description">Builds any piece of software with a focus on the experience of our learners.</div>
 				  
-				  <div class="social">
-					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-google-plus"></i></a>
-					<a href="#"><i class="fa fa-behance"></i></a>
-				  </div>
+			
 				</div>
 				<div class="clearfix"></div>
 			  </div><!-- .employee -->
@@ -376,12 +345,7 @@
 				  
 				  <div class="description">An engineering leader with extensive experience in high-growth startups.</div>
 				  
-				  <div class="social">
-					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-google-plus"></i></a>
-					<a href="#"><i class="fa fa-behance"></i></a>
-				  </div>
+				  
 				</div>
 				<div class="clearfix"></div>
 			  </div><!-- .employee -->
@@ -397,12 +361,7 @@
 				  
 				  <div class="description">Responsible for strategic design and management of organizational programs.</div>
 				  
-				  <div class="social">
-					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-google-plus"></i></a>
-					<a href="#"><i class="fa fa-behance"></i></a>
-				  </div>
+			
 				</div>
 				<div class="clearfix"></div>
 			  </div><!-- .employee -->
@@ -431,19 +390,19 @@
 			<div class="contact-info" data-appear-animation="fadeInLeft" data-appear-animation-delay="300">
 			  <div class="icon"><i class="fa fa-mobile"></i></div>
 			  <h4 class="title">Phone:</h4>
-			  <div class="text">595 12 34 567</div>
+			  <div class="text">+51 947 261 005</div>
 			</div><!-- .contact-info -->
   
 			<div class="contact-info" data-appear-animation="fadeInLeft" data-appear-animation-delay="400">
 			  <div class="icon"><i class="fa fa-envelope-o"></i></div>
 			  <h4 class="title">Email:</h4>
-			  <div class="text"><a href="mailto:mail@example.com">mail@example.com</a></div>
+			  <div class="text"><a href="mailto:ysejesus2014@gmail.com">ysejesus2014@gmail.com</a></div>
 			</div><!-- .contact-info -->
 			
 			<div class="contact-info" data-appear-animation="fadeInLeft" data-appear-animation-delay="500">
 			  <div class="icon"><i class="fa fa-map-marker"></i></div>
 			  <h4 class="title">Address:</h4>
-			  <address class="text">49 Archdale, 2B Charleston, New Yoark City, USA</address>
+			  <address class="text">Calle Suitacato 567 Cuzco</address>
 			</div><!-- .contact-info -->
 		  </div>
 		  

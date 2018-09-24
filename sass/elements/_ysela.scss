@@ -35,7 +35,6 @@ Slider
 .logo-t{
   width:200px;
   height:200px;
-  background-color:red;
   position:absolute;
   z-index: 99;
   top: 25%;
@@ -50,17 +49,33 @@ Slider
 .second-menu ul li a{
   color: #fff !important;
   text-decoration: none !important;
-  font-size:0.9em;
+  font-size:1.3em;
   padding: 0 10px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 1px;
+  font-family: "miso";
 }
 
 .third-menu ul li a{
   color: #fff !important;
   text-decoration: none !important;
-  font-size:0.9em;
+  font-size:1.4em;
   padding: 0 10px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 1px;
+  font-family: "miso";
+ 
+}
+
+.tours{
+  h1{
+    color: #ffffff;
+  }
+  ul.dropdown-menu{
+    li{
+      a{
+        color: #ffffff !important;
+      }
+    }
+  }
 }

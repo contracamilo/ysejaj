@@ -29,7 +29,7 @@
   <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
   
   <!-- Theme CSS -->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="sass/yselaj/css/style.css">
   <link rel="stylesheet" href="css/theme-styles.css">
 
   <!--[if lt IE 9]>
@@ -77,11 +77,11 @@
     <div class="header-menu">
     <nav id="main-menu" class="collapse navbar-collapse">
       <ul class="col-sm-12 col-md-6 nav navbar-nav">
-      <li><a href="#"><span>Incio</span></a></li>
-      <li><a href="#about"><span>Nosotros</span></a></li>
-      <li><a href="#works"><span>Galeria</span></a></li>
-      <li><a href="#team"><span>Equipo</span></a></li>
-      <li><a href="#contacts"><span>Contacto</span></a></li>
+      <li><a href="#"><span>Home</span></a></li>
+      <li><a href="#about"><span>Ysela Jesús</span></a></li>
+      <li><a href="#tours"><span>Tours</span></a></li>
+      <li><a href="#comments"><span>Comments</span></a></li>
+      <li><a href="#contacts"><span>Contact</span></a></li>
       </ul>
       <div class="clearfix"></div>
     </nav>
